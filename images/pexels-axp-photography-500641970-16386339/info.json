@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 101,
+    "height" : 131
+  }, {
+    "width" : 202,
+    "height" : 262
+  }, {
+    "width" : 403,
+    "height" : 524
+  }, {
+    "width" : 805,
+    "height" : 1048
+  }, {
+    "width" : 1609,
+    "height" : 2095
+  }, {
+    "width" : 3217,
+    "height" : 4189
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3217,
+  "@id" : "https://Mitra-1990.github.io/test/images/pexels-axp-photography-500641970-16386339",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 4189
+}
